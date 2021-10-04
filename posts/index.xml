@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Oct 2021 21:48:46 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客搭建日志</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 03 Oct 2021 21:48:46 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>1.前置准备 ​	hugo安装包
+​	hugo主题包
+​	git安装包
+​	githubdesktop安装包
+第一步 将hugo安装包解压并将其目录添加到环境变量
+第二步 使用new site指令新建个人博客
+第三步 将主题包解压到个人博客下的子目录themes中
+并执行
+echo theme
+命令
+第四步 新建个人博客
+第五步 使用
+hugo -D
+指令将博客编译
+第六步 安装git
+第七步 使用
+git init 指令
+第八步 安装 GitHub desktop
+第十步 导入文件并上传至GitHub</description>
+    </item>
+    
+  </channel>
+</rss>
